@@ -1,1 +1,1 @@
-# Table Questioning and Answering Syatem
+# Table Questioning and Answering System
